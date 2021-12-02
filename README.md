@@ -6,8 +6,8 @@ A Kotlin template for [Advent of Code](https://adventofcode.com/), complete with
 2. [Util Functions](#Util-Functions)
 
 ### How To Run
-1. Fork this repository
-2. Clone the forked repository to your local machine
+1. Click `Use this template` to create your own repository
+2. Clone your new repository to your local machine
 3. Create a new configuration in IntelliJ IDEA and set `MainKt` as the main class 
    - You may need to download any missing dependencies like OpenJDK or Kotlin, but IntelliJ IDEA will help you with this
 4. For each day, write your solution in the respective class in the `src/days` folder
