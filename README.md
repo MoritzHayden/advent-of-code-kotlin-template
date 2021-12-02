@@ -1,4 +1,4 @@
-# Advent of Code Template
+# Advent of Code - Kotlin Template
 A Kotlin template for [Advent of Code](https://adventofcode.com/), complete with a CLI.
 
 ## Table of Contents
